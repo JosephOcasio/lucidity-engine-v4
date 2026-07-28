@@ -1,0 +1,2 @@
+GEBCO_TID=https://gis.ccom.unh.edu/server/rest/services/GEBCO2026/GEBCO_2026_Draft_TID/MapServer/export?bbox=-6.36,35.65,-5.64,36.25&bboxSR=4326&imageSR=4326&size=3600,3000&format=tiff&transparent=false&layers=show:0&f=image
+GMRT_TOPO_MASK=https://www.gmrt.org/services/GridServer?north=36.25&west=-6.36&east=-5.64&south=35.65&layer=topo-mask&format=geotiff&resolution=max
